@@ -1,0 +1,14 @@
+C:\Users\savit\source\repos\PickRandomCards\PickRandomCards\bin\Debug\net6.0\PickRandomCards.exe
+C:\Users\savit\source\repos\PickRandomCards\PickRandomCards\bin\Debug\net6.0\PickRandomCards.deps.json
+C:\Users\savit\source\repos\PickRandomCards\PickRandomCards\bin\Debug\net6.0\PickRandomCards.runtimeconfig.json
+C:\Users\savit\source\repos\PickRandomCards\PickRandomCards\bin\Debug\net6.0\PickRandomCards.dll
+C:\Users\savit\source\repos\PickRandomCards\PickRandomCards\bin\Debug\net6.0\PickRandomCards.pdb
+C:\Users\savit\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savit\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.AssemblyInfoInputs.cache
+C:\Users\savit\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.AssemblyInfo.cs
+C:\Users\savit\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.csproj.CoreCompileInputs.cache
+C:\Users\savit\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.dll
+C:\Users\savit\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net6.0\refint\PickRandomCards.dll
+C:\Users\savit\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.pdb
+C:\Users\savit\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.genruntimeconfig.cache
+C:\Users\savit\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net6.0\ref\PickRandomCards.dll
